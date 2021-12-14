@@ -6,7 +6,7 @@
 
 #***After create the credential file that is a .json file. Upload that credential file to the GOOGLE_APPLICATION_CREDENTIALS path above or the path you need.
 
-#***If you don't need to retrive the weather data from BigQuery API by yourself, I have already provided the weather data from BigQuery API in this git
+#***If you don't need to retrive the weather data from BigQuery API by yourself, I have already provided the weather data from BigQuery API with the links below.
 
 #***so you can just skip the Google cloud step and can run the code in the block that you see the word ***Hello COVID***.
 
